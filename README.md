@@ -1,6 +1,6 @@
 # chatgptdemo-bot
 
-A GPT-3 like AI chat bot. Without saving a context. Just a simple bot for conversations. For your own deals without ads and annoying thigs which are usually met in free tg bot chats. Uses API of `https://chat.chatgptdemo.net/`. 
+A GPT-3 like AI chat bot. With an ability to save a context (see .env configuration). Just a simple bot for conversations. For your own deals without ads and annoying thigs which are usually met in free tg bot chats. Uses API of `https://chat.chatgptdemo.net/`. 
 
 
 ## Requirements
